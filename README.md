@@ -21,7 +21,7 @@ A secure PowerShell-based folder encryption tool designed for enterprise communi
 
 1. Clone the repository:
 ```powershell
-git clone https://github.com/yourusername/enccrypton.git
+git clone https://github.com/Naya-James-Mbabila/enccrypton.git
 ```
 
 2. Navigate to the project directory:
